@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   // Constant with your API Key
-  const apiKey = "3ea8220e";
+  const apiKey = "API KEY HERE";
 
   // State to hold movie data
   const [movie, setMovie] = useState(null);
